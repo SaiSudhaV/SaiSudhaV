@@ -1,17 +1,14 @@
 ## Hello, I'm Sai Sudha Vadisina👋
 ### Pythonista, Open Source Contributor, Enthusiastic Learner.
 
-<!--
-**SaiSudhaV/SaiSudhaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently an Undergrad student in BVRIT HYDERABAD College of Engineering for Women
+- 🌱 I’m currently learning Machine learning, Data Science
+- 👯 I’m looking to collaborate on Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| ![Sudha GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SaiSudhaV&show_icons=true) |
+| --- | --- |
+| ![Sudha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSudhaV) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhaV) |
