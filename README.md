@@ -12,3 +12,5 @@
  ![Sudha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSudhaV)
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhaV)
+
+[![Sudha GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaiSudhaV&theme=xcode)](https://git.io/SaiSudhaV)
